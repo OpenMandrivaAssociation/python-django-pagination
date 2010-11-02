@@ -2,7 +2,7 @@
 
 Name:           python-django-pagination
 Version:        1.0.5
-Release:        %mkrel 2
+Release:        %mkrel 3
 Summary:        Django pagination tools
 
 Group:          Development/Python

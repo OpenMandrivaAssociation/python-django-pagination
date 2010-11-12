@@ -1,14 +1,14 @@
 %define realname django-pagination
 
 Name:           python-django-pagination
-Version:        1.0.5
-Release:        %mkrel 5
+Version:        1.0.7
+Release:        %mkrel 1
 Summary:        Django pagination tools
 
 Group:          Development/Python
 License:        BSD
-URL:            http://code.google.com/p/django-pagination/
-Source0:        http://django-pagination.googlecode.com/files/%{realname}-%{version}.tar.gz
+URL:            http://pypi.python.org/pypi/django-pagination
+Source0:        http://pypi.python.org/packages/source/d/django-pagination/%{realname}-%{version}.tar.gz
 BuildRoot:      %{_tmppath}/%{name}-%{version}-%{release}-buildroot
 
 BuildArch:      noarch

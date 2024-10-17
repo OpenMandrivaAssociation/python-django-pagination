@@ -7,7 +7,7 @@ Summary:        Django pagination tools
 
 Group:          Development/Python
 License:        BSD
-URL:            http://pypi.python.org/pypi/django-pagination
+URL:            https://pypi.python.org/pypi/django-pagination
 Source0:        http://pypi.python.org/packages/source/d/django-pagination/%{realname}-%{version}.tar.gz
 BuildRoot:      %{_tmppath}/%{name}-%{version}-%{release}-buildroot
 
